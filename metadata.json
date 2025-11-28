@@ -1,0 +1,9 @@
+{
+  "name": "Waste-to-SoAiI",
+  "description": "Aplikasi Pemanfaatan AI Tools untuk Optimalisasi Konversi Sampah Organik Menjadi Pupuk Homemade yang Adaptif Terhadap Perubahan Iklim.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
